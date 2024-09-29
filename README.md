@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ps08022009
 - 👀 I’m interested in 🍵Java & 🍃 Spring Boot Framework
-- 🌱 I’m currently learning ⚛️ React.js
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on 🍵 Java or 🤖 AI Projects
 - 📫 How to reach me Email: pranavsankar614@gmial.com
 
